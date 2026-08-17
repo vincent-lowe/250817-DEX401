@@ -1,26 +1,18 @@
-DEX401 - Anypoint Development Fundamentals Classroom Reference - < YYMMDD > - < TZ >
+DEX401 - Anypoint Development Fundamentals Classroom Reference - 260817 - PDT
 
-< Instructor Name >
+Vincent Lowe
 
-< Instructor Email >
+vlowe@salesforce.com
 
 -------------------------------------------------------------------------------------------------------------------
 Trailhead Academy:						https://trailheadacademy.salesforce.com/my-learning
 
-
-Salesforce Mimeo:							https://salesforce.mimeo.digital/MuleSoft
-
-eBook Redemption Key:					< Mimeo Key >
-
 -------------------------------------------------------------------------------------------------------------------
 Survey Link:									https://www.research.net/r/trailheadacademy
 
-Survey ID:										< survey ID >
+Survey ID:										TASM-2177087
 
 -------------------------------------------------------------------------------------------------------------------
-Zoom Link: < Zoom Link >
-
-Meeting ID: < Meeting ID >
 
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX401
 
