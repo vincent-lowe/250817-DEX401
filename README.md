@@ -59,6 +59,7 @@ MuleSoft Pricing & Support: https://www.mulesoft.com/anypoint-pricing
 |Hotel California|Moyun|Instrumental Eagles cover|
 |Here You Come Again|Dolly Parton ||
 |Once In A Very Blue Moon|Nanci Griffith|Live at Anderson Fair|
+|We Don't Talk About Bruno|Voiceplay feat. Ashley Diane|from Encanto|
 
 
 
