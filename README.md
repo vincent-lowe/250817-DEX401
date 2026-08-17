@@ -14,6 +14,10 @@ Survey ID:										TASM-2177087
 
 -------------------------------------------------------------------------------------------------------------------
 
+cloudhub vm login: https://use.cloudshare.com/Class/g2rek
+
+cloudhub passphrase: Phil the Shy Zebra
+
 Class System Setup (pre-class): https://trailhead.salesforce.com/help?article=Computer-Setup-Guide-for-MuleSoft-Expert-Led-Classes#DEX401
 
 Advanced REST Client:
