@@ -55,6 +55,8 @@ MuleSoft Pricing & Support: https://www.mulesoft.com/anypoint-pricing
 |-----------|------|-----|
 |The Streetbeater|Quincy Jones|Theme song from TV Sanford & Son|
 |Smooth Criminal|Luca Stricagnoli|Michael Jackson cover|
+|You Go To My Head|Louis Armstrong and Oscar Peterson||
+|Hotel California|Moyun|Instrumental Eagles cover|
 
 
 
