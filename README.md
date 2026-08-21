@@ -76,6 +76,8 @@ MuleSoft Pricing & Support: https://www.mulesoft.com/anypoint-pricing
 |I'm Feeling Good|Nina Simone||
 |Analog Hero|Mark Erelli|Mark wrote this song about his dad|
 |Love and Happiness|Al Green||
+|The Sound of Silence|Disturbed||
+|Crazy He Calls Me|Billie Holiday||
 
 
 
